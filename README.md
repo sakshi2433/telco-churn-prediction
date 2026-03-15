@@ -76,10 +76,10 @@ Accuracy alone is misleading for churn (26% positive class). This project uses:
 
 ```
 telco-churn-prediction/
-├── Telco_Customer_Churn.ipynb    # Full notebook — EDA + modelling + evaluation
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── Telco_Customer_Churn.ipynb    
 └── README.md
+└── requirements.txt
+
 ```
 
 ---
